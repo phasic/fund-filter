@@ -1,0 +1,18 @@
+{
+  "name": "food-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "@polymer/paper-button": "github:PolymerElements/paper-button",
+    "faker": "^4.1.0",
+    "lit-element": "^2.1.0",
+    "nouislider": "^13.1.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "mock": "node scripts/mock-generate.js"
+  },
+  "author": "",
+  "license": "ISC"
+}

@@ -1,0 +1,608 @@
+[
+    {
+        "isin": "OD4740699683",
+        "currency": "SGD",
+        "amount": "41.13",
+        "sector": "Utilities"
+    },
+    {
+        "isin": "KS6161176483",
+        "currency": "XAG",
+        "amount": "420.06",
+        "sector": "Telecom"
+    },
+    {
+        "isin": "CR1671592701",
+        "currency": "LAK",
+        "amount": "529.53",
+        "sector": "Utilities"
+    },
+    {
+        "isin": "HM3834260753",
+        "currency": "LYD",
+        "amount": "87.72",
+        "sector": "Energy"
+    },
+    {
+        "isin": "EU2006078559",
+        "currency": "TMT",
+        "amount": "131.55",
+        "sector": "Telecom"
+    },
+    {
+        "isin": "FX0319200106",
+        "currency": "PHP",
+        "amount": "248.83",
+        "sector": "AI"
+    },
+    {
+        "isin": "ED0946799117",
+        "currency": "SEK",
+        "amount": "180.96",
+        "sector": "Utilities"
+    },
+    {
+        "isin": "FO6584796072",
+        "currency": "PKR",
+        "amount": "430.34",
+        "sector": "Utilities"
+    },
+    {
+        "isin": "RH0304781540",
+        "currency": "HKD",
+        "amount": "102.48",
+        "sector": "Energy"
+    },
+    {
+        "isin": "SC0607171125",
+        "currency": "LRD",
+        "amount": "708.48",
+        "sector": "Energy"
+    },
+    {
+        "isin": "AN5983931698",
+        "currency": "MMK",
+        "amount": "287.08",
+        "sector": "Healthcare"
+    },
+    {
+        "isin": "UD1859415078",
+        "currency": "AFN",
+        "amount": "627.32",
+        "sector": "Telecom"
+    },
+    {
+        "isin": "YC4802579509",
+        "currency": "ALL",
+        "amount": "704.70",
+        "sector": "Telecom"
+    },
+    {
+        "isin": "DZ3112374936",
+        "currency": "XPF",
+        "amount": "565.79",
+        "sector": "Energy"
+    },
+    {
+        "isin": "SJ1387769247",
+        "currency": "ZAR",
+        "amount": "952.45",
+        "sector": "AI"
+    },
+    {
+        "isin": "QS2308683755",
+        "currency": "XBD",
+        "amount": "636.39",
+        "sector": "Energy"
+    },
+    {
+        "isin": "GA7921207305",
+        "currency": "NIO",
+        "amount": "214.30",
+        "sector": "AI"
+    },
+    {
+        "isin": "AO6049352222",
+        "currency": "MZN",
+        "amount": "233.52",
+        "sector": "Telecom"
+    },
+    {
+        "isin": "BT1760903571",
+        "currency": "BWP",
+        "amount": "732.84",
+        "sector": "Utilities"
+    },
+    {
+        "isin": "MU8558323278",
+        "currency": "KZT",
+        "amount": "114.46",
+        "sector": "AI"
+    },
+    {
+        "isin": "QR1570992651",
+        "currency": "EEK",
+        "amount": "849.00",
+        "sector": "Telecom"
+    },
+    {
+        "isin": "DP8027943393",
+        "currency": "BSD",
+        "amount": "372.57",
+        "sector": "Utilities"
+    },
+    {
+        "isin": "JG1860498773",
+        "currency": "XPF",
+        "amount": "444.19",
+        "sector": "Utilities"
+    },
+    {
+        "isin": "JC0153005530",
+        "currency": "AWG",
+        "amount": "444.90",
+        "sector": "Telecom"
+    },
+    {
+        "isin": "MV6251372925",
+        "currency": "CAD",
+        "amount": "110.13",
+        "sector": "Utilities"
+    },
+    {
+        "isin": "LS3735441882",
+        "currency": "BDT",
+        "amount": "77.69",
+        "sector": "AI"
+    },
+    {
+        "isin": "PF7679361519",
+        "currency": "INR BTN",
+        "amount": "408.31",
+        "sector": "Telecom"
+    },
+    {
+        "isin": "BS3351274693",
+        "currency": "KGS",
+        "amount": "396.90",
+        "sector": "Utilities"
+    },
+    {
+        "isin": "RH5392367180",
+        "currency": "XAF",
+        "amount": "328.71",
+        "sector": "AI"
+    },
+    {
+        "isin": "TF9107138981",
+        "currency": "DOP",
+        "amount": "174.35",
+        "sector": "Utilities"
+    },
+    {
+        "isin": "ST0254927216",
+        "currency": "KES",
+        "amount": "757.64",
+        "sector": "Healthcare"
+    },
+    {
+        "isin": "VA7832930252",
+        "currency": "IDR",
+        "amount": "363.42",
+        "sector": "Telecom"
+    },
+    {
+        "isin": "JQ4356608521",
+        "currency": "ZWL",
+        "amount": "601.43",
+        "sector": "Utilities"
+    },
+    {
+        "isin": "CQ9517880781",
+        "currency": "XBC",
+        "amount": "201.87",
+        "sector": "AI"
+    },
+    {
+        "isin": "QM7620758189",
+        "currency": "XAU",
+        "amount": "501.07",
+        "sector": "Energy"
+    },
+    {
+        "isin": "XR5414515145",
+        "currency": "MNT",
+        "amount": "143.21",
+        "sector": "Healthcare"
+    },
+    {
+        "isin": "DH4332149970",
+        "currency": "PLN",
+        "amount": "909.84",
+        "sector": "Utilities"
+    },
+    {
+        "isin": "TY9436011177",
+        "currency": "INR",
+        "amount": "737.27",
+        "sector": "Energy"
+    },
+    {
+        "isin": "QD5517966150",
+        "currency": "SCR",
+        "amount": "508.40",
+        "sector": "AI"
+    },
+    {
+        "isin": "MD5349908424",
+        "currency": "BIF",
+        "amount": "946.84",
+        "sector": "Energy"
+    },
+    {
+        "isin": "UR2169773613",
+        "currency": "TND",
+        "amount": "53.52",
+        "sector": "Utilities"
+    },
+    {
+        "isin": "MP9178364202",
+        "currency": "XAU",
+        "amount": "590.85",
+        "sector": "Utilities"
+    },
+    {
+        "isin": "GE7947079829",
+        "currency": "XDR",
+        "amount": "240.35",
+        "sector": "AI"
+    },
+    {
+        "isin": "AR9894289215",
+        "currency": "DJF",
+        "amount": "291.12",
+        "sector": "Healthcare"
+    },
+    {
+        "isin": "UQ9175149241",
+        "currency": "BGN",
+        "amount": "596.56",
+        "sector": "Utilities"
+    },
+    {
+        "isin": "RW1402135578",
+        "currency": "LRD",
+        "amount": "276.85",
+        "sector": "Energy"
+    },
+    {
+        "isin": "SK7988946219",
+        "currency": "SVC USD",
+        "amount": "961.63",
+        "sector": "Telecom"
+    },
+    {
+        "isin": "TZ9657736350",
+        "currency": "AWG",
+        "amount": "311.12",
+        "sector": "Telecom"
+    },
+    {
+        "isin": "JM2267320726",
+        "currency": "SHP",
+        "amount": "790.67",
+        "sector": "Energy"
+    },
+    {
+        "isin": "HT4828684222",
+        "currency": "MRO",
+        "amount": "339.09",
+        "sector": "Healthcare"
+    },
+    {
+        "isin": "LX8469092591",
+        "currency": "AED",
+        "amount": "218.12",
+        "sector": "AI"
+    },
+    {
+        "isin": "XZ6471140586",
+        "currency": "KYD",
+        "amount": "580.19",
+        "sector": "Energy"
+    },
+    {
+        "isin": "NU4771395122",
+        "currency": "BAM",
+        "amount": "397.41",
+        "sector": "Utilities"
+    },
+    {
+        "isin": "NJ0870975103",
+        "currency": "CVE",
+        "amount": "901.95",
+        "sector": "Telecom"
+    },
+    {
+        "isin": "PD7129948932",
+        "currency": "BDT",
+        "amount": "913.57",
+        "sector": "Telecom"
+    },
+    {
+        "isin": "UP5059553538",
+        "currency": "SCR",
+        "amount": "574.11",
+        "sector": "Telecom"
+    },
+    {
+        "isin": "RA6315118588",
+        "currency": "RSD",
+        "amount": "374.42",
+        "sector": "Utilities"
+    },
+    {
+        "isin": "ND4759315694",
+        "currency": "LVL",
+        "amount": "66.35",
+        "sector": "Utilities"
+    },
+    {
+        "isin": "MV5999029596",
+        "currency": "KRW",
+        "amount": "836.59",
+        "sector": "AI"
+    },
+    {
+        "isin": "EI5384028368",
+        "currency": "CAD",
+        "amount": "634.20",
+        "sector": "AI"
+    },
+    {
+        "isin": "LH3194245315",
+        "currency": "BWP",
+        "amount": "17.87",
+        "sector": "Healthcare"
+    },
+    {
+        "isin": "YW0314284899",
+        "currency": "WST",
+        "amount": "452.93",
+        "sector": "Energy"
+    },
+    {
+        "isin": "KU6946998798",
+        "currency": "XFU",
+        "amount": "746.08",
+        "sector": "Energy"
+    },
+    {
+        "isin": "TH2782889285",
+        "currency": "DJF",
+        "amount": "481.22",
+        "sector": "Healthcare"
+    },
+    {
+        "isin": "CK4887308668",
+        "currency": "HTG USD",
+        "amount": "876.58",
+        "sector": "Energy"
+    },
+    {
+        "isin": "MT4690774058",
+        "currency": "XCD",
+        "amount": "829.95",
+        "sector": "Telecom"
+    },
+    {
+        "isin": "LH1621296777",
+        "currency": "BOB BOV",
+        "amount": "302.77",
+        "sector": "Energy"
+    },
+    {
+        "isin": "HK8070643279",
+        "currency": "KHR",
+        "amount": "539.94",
+        "sector": "Utilities"
+    },
+    {
+        "isin": "KU7139235644",
+        "currency": "THB",
+        "amount": "67.96",
+        "sector": "AI"
+    },
+    {
+        "isin": "VL5856365898",
+        "currency": "AUD",
+        "amount": "336.32",
+        "sector": "Utilities"
+    },
+    {
+        "isin": "CD8545090979",
+        "currency": "XCD",
+        "amount": "134.40",
+        "sector": "Energy"
+    },
+    {
+        "isin": "QH1778286171",
+        "currency": "MKD",
+        "amount": "720.10",
+        "sector": "Telecom"
+    },
+    {
+        "isin": "CT9721289627",
+        "currency": "AOA",
+        "amount": "461.06",
+        "sector": "Utilities"
+    },
+    {
+        "isin": "CZ7065240963",
+        "currency": "SVC USD",
+        "amount": "317.17",
+        "sector": "Healthcare"
+    },
+    {
+        "isin": "BR8978020710",
+        "currency": "SEK",
+        "amount": "552.97",
+        "sector": "Utilities"
+    },
+    {
+        "isin": "LM5934868194",
+        "currency": "OMR",
+        "amount": "854.13",
+        "sector": "Healthcare"
+    },
+    {
+        "isin": "IV3527553942",
+        "currency": "XBC",
+        "amount": "401.08",
+        "sector": "Utilities"
+    },
+    {
+        "isin": "ND1598705553",
+        "currency": "RON",
+        "amount": "483.49",
+        "sector": "AI"
+    },
+    {
+        "isin": "GS5763746642",
+        "currency": "NPR",
+        "amount": "63.50",
+        "sector": "Telecom"
+    },
+    {
+        "isin": "RR6356795098",
+        "currency": "ARS",
+        "amount": "223.86",
+        "sector": "Utilities"
+    },
+    {
+        "isin": "ZY8650679657",
+        "currency": "MYR",
+        "amount": "83.81",
+        "sector": "Healthcare"
+    },
+    {
+        "isin": "YO6452235649",
+        "currency": "AED",
+        "amount": "267.25",
+        "sector": "Utilities"
+    },
+    {
+        "isin": "ZN2412068026",
+        "currency": "KHR",
+        "amount": "592.12",
+        "sector": "Healthcare"
+    },
+    {
+        "isin": "EU1750185293",
+        "currency": "SZL",
+        "amount": "553.06",
+        "sector": "Utilities"
+    },
+    {
+        "isin": "SI1049873726",
+        "currency": "XAG",
+        "amount": "464.30",
+        "sector": "Telecom"
+    },
+    {
+        "isin": "MT7302516446",
+        "currency": "ETB",
+        "amount": "135.09",
+        "sector": "Healthcare"
+    },
+    {
+        "isin": "GU8815049321",
+        "currency": "HNL",
+        "amount": "680.74",
+        "sector": "AI"
+    },
+    {
+        "isin": "YC2656708051",
+        "currency": "PAB USD",
+        "amount": "489.26",
+        "sector": "Healthcare"
+    },
+    {
+        "isin": "ZY6697178754",
+        "currency": "KHR",
+        "amount": "961.02",
+        "sector": "Telecom"
+    },
+    {
+        "isin": "YR8667463444",
+        "currency": "IDR",
+        "amount": "259.42",
+        "sector": "Utilities"
+    },
+    {
+        "isin": "AJ7958450679",
+        "currency": "TJS",
+        "amount": "773.61",
+        "sector": "Healthcare"
+    },
+    {
+        "isin": "FS7302252868",
+        "currency": "MOP",
+        "amount": "102.02",
+        "sector": "Healthcare"
+    },
+    {
+        "isin": "JU9162247235",
+        "currency": "BHD",
+        "amount": "824.80",
+        "sector": "Utilities"
+    },
+    {
+        "isin": "GR1445895571",
+        "currency": "THB",
+        "amount": "330.36",
+        "sector": "Utilities"
+    },
+    {
+        "isin": "ZM0069089277",
+        "currency": "SCR",
+        "amount": "863.90",
+        "sector": "Healthcare"
+    },
+    {
+        "isin": "XX9951662663",
+        "currency": "HUF",
+        "amount": "44.02",
+        "sector": "Healthcare"
+    },
+    {
+        "isin": "EQ4276406995",
+        "currency": "THB",
+        "amount": "602.79",
+        "sector": "AI"
+    },
+    {
+        "isin": "JZ8861126493",
+        "currency": "AUD",
+        "amount": "993.97",
+        "sector": "AI"
+    },
+    {
+        "isin": "LD7639182481",
+        "currency": "MWK",
+        "amount": "995.91",
+        "sector": "Utilities"
+    },
+    {
+        "isin": "GW9332975675",
+        "currency": "PEN",
+        "amount": "454.56",
+        "sector": "Utilities"
+    },
+    {
+        "isin": "WZ7754937071",
+        "currency": "LYD",
+        "amount": "404.70",
+        "sector": "AI"
+    }
+]
